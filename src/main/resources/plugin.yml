@@ -1,0 +1,10 @@
+name: ParticleGUI
+main: com.rayzr522.particlegui.ParticleGUI
+version: 1.2
+description: A plugin which allows you to have custom particle trails
+author: [Rayzr]
+commands:
+  particles:
+    description: Open the ParticleGUI
+    aliases: [particle,particlesgui,particlegui,pgui]
+    usage: "/particles"
