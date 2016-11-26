@@ -1,6 +1,3 @@
-/**
- * 
- */
 package com.rayzr522.particlegui;
 
 import static org.bukkit.ChatColor.BLUE;
